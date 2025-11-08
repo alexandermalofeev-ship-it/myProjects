@@ -1,11 +1,15 @@
+body{
+    background-color: lab(85.94% -2.56 -19.85);
+}
 .wrapper{
+    display: block;
     padding: 15px;
 }
 
 th,
 td {
   padding: 15px;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #fdfdfd;
 }
 
 th {
